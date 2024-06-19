@@ -2,9 +2,7 @@
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on some of team
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: apriliatan11@gmail.com
 
 <!---
 taniaapr11/taniaapr11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
